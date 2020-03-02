@@ -1,0 +1,51 @@
+:global {
+  body,
+  div,
+  dl,
+  dt,
+  dd,
+  ul,
+  ol,
+  li,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  pre,
+  form,
+  fieldset,
+  input,
+  textarea,
+  p,
+  blockquote,
+  th,
+  td {
+    padding: 0;
+    margin: 0;
+  }
+
+  ul,
+  dl,
+  ol {
+    list-style: none;
+  }
+
+  a:link,
+  a:visited {
+    color: #656565;
+    text-decoration: none;
+    outline: none;
+  }
+
+  a:hover {
+    color: #4c89ba;
+    text-decoration: none;
+    outline: none;
+  }
+
+  img {
+    border: 0;
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "verbose": true,
+  "ignore": [
+    "*.test.js",
+    "fixtures/*"
+  ],
+  "execMap": {
+    "rb": "ruby",
+    "pde": "processing --sketch={{pwd}} --run"
+  },
+  "ext": "js,jsx,ts,tsx,vue,html,njk",
+  "watch": [
+    "src/server/",
+    "static/vue-ssr-server-bundle.json"
+  ],
+  "env": {
+  },
+  "exec": "npm run server:start"
+}

@@ -1,0 +1,19 @@
+{
+  "all": true,
+  "include": [
+    "src/**/*.ts",
+    "!src/**/*.spec.ts"
+  ],
+  "extension": [
+    ".ts",
+    ".tsx"
+  ],
+  "exclude": [],
+  "check-coverage": true,
+  "branches": 30,
+  "lines": 40,
+  "functions": 40,
+  "statements": 40,
+  "compact": false,
+  "reporter": ["html", "text"]
+}

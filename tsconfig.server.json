@@ -1,0 +1,54 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "allowJs": false,
+    "allowSyntheticDefaultImports": true,
+    "checkJs": false,
+    "declaration": false,
+    "outDir": "bin",
+    "diagnostics": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "forceConsistentCasingInFileNames": true,
+    "jsx": "preserve",
+    "jsxFactory": "h",
+    "lib": [
+      "es5",
+      "es6",
+      "es2015",
+      "es2015.promise",
+      "dom"
+    ],
+    "moduleResolution": "node",
+    "noStrictGenericChecks": true,
+    "noImplicitAny": false,
+    "pretty": true,
+    "skipLibCheck": true,
+    "sourceMap": true,
+    "strict": false,
+    "strictNullChecks": false,
+    "esModuleInterop": true,
+    "rootDir": "./src",
+    "module": "commonjs",
+    "target": "es2017",
+    "types": [
+      "jest",
+      "node"
+    ],
+    "typeRoots": [
+    ],
+    "baseUrl": ".",
+    "paths": {
+    }
+  },
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.vue",
+    "typings/**/*.d.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "src/**/*.spec.ts",
+    "src/**/__tests__/*.ts"
+  ]
+}

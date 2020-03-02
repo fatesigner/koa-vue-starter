@@ -1,0 +1,33 @@
+allow-uncaught: false
+async-only: false
+bail: false
+check-leaks: false
+color: true
+delay: false
+diff: true
+exit: false
+extension:
+  - js
+  - ts
+forbid-only: false
+forbid-pending: false
+full-trace: false
+global:
+growl: false
+inline-diffs: false
+opts: false
+recursive: true
+reporter: mochawesome
+reporter-option:
+require: 'ts-node/register'
+retries: 1
+slow: 75
+sort: false
+spec: src/**/*.spec.ts
+timeout: false
+trace-warnings: true
+ui: bdd
+v8-stack-trace-limit: 100
+watch: false
+watch-files:
+watch-ignore:
