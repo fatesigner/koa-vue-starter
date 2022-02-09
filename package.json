@@ -39,7 +39,7 @@
   "dependencies": {
     "@forgleaner/sass-helpers": "1.0.0",
     "@forgleaner/utils": "1.0.0",
-    "axios": "0.19.2",
+    "axios": "0.20.0",
     "chalk": "3.0.0",
     "cheerio": "1.0.0-rc.3",
     "element-ui": "2.13.0",
