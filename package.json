@@ -63,7 +63,7 @@
     "koa-webpack-hot-middleware": "1.0.3",
     "lodash": "4.17.15",
     "moment": "2.24.0",
-    "nunjucks": "3.2.0",
+    "nunjucks": "3.2.4",
     "reflect-metadata": "0.1.13",
     "rxjs": "6.5.4",
     "shortid": "2.2.15",
