@@ -63,7 +63,7 @@
     "koa-webpack-hot-middleware": "1.0.3",
     "lodash": "4.17.15",
     "moment": "2.24.0",
-    "nunjucks": "3.2.0",
+    "nunjucks": "3.2.1",
     "reflect-metadata": "0.1.13",
     "rxjs": "6.5.4",
     "shortid": "2.2.15",
@@ -72,7 +72,7 @@
     "vue-progressbar": "0.7.5",
     "vue-property-decorator": "8.4.0",
     "vue-router": "3.1.6",
-    "vue-server-renderer": "2.6.11",
+    "vue-server-renderer": "2.7.0",
     "vuex": "3.1.2",
     "vuex-router-sync": "5.0.0"
   },
